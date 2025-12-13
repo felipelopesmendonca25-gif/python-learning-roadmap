@@ -5,3 +5,7 @@ Dia = input ('Dia=')
 Mês = input ('Mês=')
 Ano = input ('Ano=')
 print('Você nasceu no dia',Dia,'do',Mês,'de',Ano,'.','Correto?')
+
+Primeiro = input ('Digite um número:')
+Segundo = input ('Digite outro número:')
+print ('A soma dos números é:', Primeiro+Segundo)
