@@ -9,3 +9,7 @@ print('Você nasceu no dia',Dia,'do',Mês,'de',Ano,'.','Correto?')
 Primeiro = input ('Digite um número:')
 Segundo = input ('Digite outro número:')
 print ('A soma dos números é:', Primeiro+Segundo)
+
+In this point i don't learn add one number in another number!!
+
+The functions are in the next file.
