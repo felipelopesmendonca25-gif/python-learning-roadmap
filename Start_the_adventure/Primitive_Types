@@ -7,3 +7,10 @@ print('A soma do dois números é:',Soma)
 
 int () Is a one primitive type for the whole numbers!!! 
 However, I always have to remember to put them in parentheses. (This part of the message was done with a translator.)
+
+n1 = float(input('Digite um número:'))
+n2 = float(input('Digite outro número:'))
+Soma = n1 + n2
+print('A soma do dois números é:',Soma)
+
+float () Is a primitive type for a numbers with fractional values
