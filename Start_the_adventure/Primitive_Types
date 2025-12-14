@@ -1,5 +1,9 @@
 Hello everyone! Let's go?
 
+In the python we have a for primitive types:
+INT, FLOAT, BOOL, STR
+int(),float(),bool(),str()
+
 n1 = int(input('Digite um número:'))
 n2 = int(input('Digite outro número:'))
 Soma = n1 + n2
